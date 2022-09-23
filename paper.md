@@ -11,7 +11,7 @@ authors:
     equal-contrib: true
     corresponding: true
     affiliation: 1
-  - name: Author Without ORCID
+  - name: Maggie Voetberg
     equal-contrib: true
     affiliation: 1
     corresponding: true
